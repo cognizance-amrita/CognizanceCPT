@@ -10,7 +10,7 @@ domain: CP
 - You have been given access to CodeChef Courses which offers courses in various programming languages. 
 - You can opt for either the **"C++ for Problem Solving 1"** or **"Java for Problem Solving 1"** course and start solving the problems. 
 - The course generally takes around 10 hours to complete, but you can take as much time as you need to finish it
-- Once you have completed the course, submit your CodeChef handle to confirm the task completion.
+- Once you have completed the course, submit your CodeChef handle and screenshot of course completion to confirm the task completion.
 - This task is designed to improve your problem-solving skills and provide you with practical experience in algorithmic thinking and coding. Good luck!
 
 ### C++ Problem Solving 1
